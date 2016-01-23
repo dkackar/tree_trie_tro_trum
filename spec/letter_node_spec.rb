@@ -1,6 +1,0 @@
-
-
-class LetterNode
-
-
-end
